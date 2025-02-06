@@ -12,9 +12,7 @@
 - Ryzen 5 3000 series processor , Intel Core i5 series (8th gen), Apple M1 Processor
 - 8GB of Ram
 
-<img src="static/mozilla_logo.png" alt="Mozilla logo" width="150">
 
-We are very grateful to the **Mozilla foundation** (Mozilla Local AI Builders program, https://builders.mozilla.org/ ), who supported the development of this application.
 
 ### Table of Contents
 
